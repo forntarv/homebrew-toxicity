@@ -1,7 +1,7 @@
 class Toxic < Formula
   desc "An ncurses-based Tox client"
   homepage "https://tox.chat"
-  head "git://github.com/JFreegman/toxic"
+  head "https://github.com/JFreegman/toxic.git"
 
   option "with-notifications", "Build with desktop notifications"
 
