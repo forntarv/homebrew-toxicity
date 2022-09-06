@@ -2,7 +2,7 @@ Homebrew formulae to install Tox.
 
 **Tap it**:
 
-    brew tap Tox/tox
+    brew tap forntarv/toxicity
 
 **Install [core](https://github.com/TokTok/c-toxcore)**:
 
